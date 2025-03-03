@@ -1,0 +1,11 @@
+codeEmprunt,UserID,Livre_title,Date_Emprunt,Date_Retour_Prevue,Etat,Date_return_Effective,User_Name
+2,21,le dernier jour d'un condaner,2024-12-20,2025-01-03,retouner,2024-12-21,fattoumi fahd
+3,21,le dernier jour d'un condaner,2024-12-20,2025-01-03,retouner,2024-12-21,fattoumi fahd
+4,21,le dernier jour d'un condaner,2024-12-20,2025-01-03,retouner,2024-12-21,fattoumi fahd
+5,6,le dernier jour d'un condaner,2024-12-21,2025-01-04,retouner,2024-12-21,fattoumi saad
+9,6,le dernier jour d'un condaner,2024-12-21,2025-01-04,retouner,2024-12-28,fattoumi saad
+11,21,howa,2024-12-24,2025-01-07,retouner,2024-12-28,fattoumi fahd
+13,5,la boite a mervieiller,2024-12-28,2025-01-11,retouner,2024-12-28,Khlifi nasser
+15,7,le dernier jour d'un condaner,2024-12-28,2025-01-11,en cours,null,fattoumi hatim
+17,17,Little Women,2025-01-20,2025-02-03,en cours,null,chraibi hajar
+46,17,Animal Farm,2025-01-20,2025-02-03,en cours,null,chraibi hajar
